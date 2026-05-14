@@ -1,0 +1,499 @@
+Date,Team Member Name,Time Category,Pickup Area,Dropoff Area,Ride Type,Suggested Fare (PKR),Team Member Offer (PKR),Final Accepted Fare (PKR),Num of Driver Bids,Weather Condition,Traffic Level,Additional Notes,Negotiation_Gap,Negotiation_Gap_Pct
+2026-03-03,Ahmed,Morning (8–11 AM),Raiwand Road,Kareem Block,Bike,217,195.0,220.0,11.0,Clear/Sunny,Moderate, ,3.0,1.3824884792626728
+2006-03-03,Eman,Morning (8–11 AM),Township,Sabzazar,Rickshaw,378,340.0,340.0,8.0,Clear/Sunny,Moderate, ,-38.0,-10.052910052910052
+2026-03-03,Tahir,Afternoon (11 AM–2 PM),Model Town,Wapda Town,Car,691,620.0,682.0,2.0,Clear/Sunny,Low, ,-9.0,-1.3024602026049203
+2026-04-03,Rameesha,Afternoon (11 AM–2 PM),Harbanspura,Walton Road,Bike,251,226.0,249.0,3.0,Clear/Sunny,Low, ,-2.0,-0.796812749003984
+2026-04-10,Tahir,Afternoon (11 AM–2 PM),Gulberg Iii,Cavalry Ground,Rickshaw,208,189.0,250.0,3.0,Clear/Sunny,Moderate, ,42.0,20.192307692307693
+2026-04-10,Tahir,Afternoon (11 AM–2 PM),Gulberg Ii,Dha,Car,613,558.0,990.0,1.0,Clear/Sunny,Moderate,,377.0,61.50081566068516
+2026-04-10,Tahir,Afternoon (11 AM–2 PM),Gulberg I,Dha,Car,711,647.0,1352.0,1.0,Clear/Sunny,Low,Long Wait,641.0,90.15471167369901
+2026-04-10,Tahir,Afternoon (11 AM–2 PM),Askari,Johar Town,Bike,181,157.0,350.0,1.0,Clear/Sunny,Low,,169.0,93.37016574585635
+2026-04-10,Tahir,Afternoon (11 AM–2 PM),Johar Town,Faisal Town,Bike,128,112.0,135.0,5.0,Clear/Sunny,Moderate,,7.0,5.46875
+2026-04-10,Tahir,Afternoon (11 AM–2 PM),Faisal Town,Township,Rickshaw,230,207.0,228.0,3.0,Clear/Sunny,Low,,-2.0,-0.8695652173913043
+2026-04-10,Tahir,Afternoon (11 AM–2 PM),Dha,Gulberg Iii,Rickshaw,382,348.0,421.0,4.0,Clear/Sunny,Low,,39.0,10.209424083769633
+2026-04-10,Tahir,Afternoon (11 AM–2 PM),Dha,Gulberg Ii,Car,758,690.0,1623.0,1.0,Clear/Sunny,Moderate,Long wait,865.0,114.1160949868074
+2026-04-10,Tahir,Afternoon (11 AM–2 PM),Cavalry Ground,Gulberg I,Car,376,342.0,489.0,1.0,Clear/Sunny,Moderate,,113.0,30.0531914893617
+2026-04-10,Tahir,Afternoon (11 AM–2 PM),Gulberg Iii,Gulberg I,Bike,81,74.0,81.0,4.0,Clear/Sunny,Low,,0.0,0.0
+2026-04-10,Tahir,Afternoon (11 AM–2 PM),Gulberg Iii,Gulberg Ii,Bike,93,85.0,93.0,4.0,Clear/Sunny,Low,,0.0,0.0
+2026-04-10,Tahir,Afternoon (11 AM–2 PM),Gulberg Ii,Gulberg Iii,Rickshaw,160,146.0,160.0,3.0,Clear/Sunny,Low,,0.0,0.0
+2026-04-10,Tahir,Afternoon (11 AM–2 PM),Gulberg Ii,Gulberg I,Rickshaw,141,128.0,141.0,3.0,Clear/Sunny,Moderate,,0.0,0.0
+2026-04-10,Tahir,Afternoon (11 AM–2 PM),Garden Town,Barkat Market,Car,50,37.0,90.0,1.0,Clear/Sunny,Moderate,,40.0,80.0
+2026-04-10,Tahir,Afternoon (11 AM–2 PM),Barkat Market,Model Town,Car,295,266.0,346.0,2.0,Clear/Sunny,Moderate,,51.0,17.28813559322034
+2026-04-10,Tahir,Evening (2–6 PM),Model Town,Mm Alam Road,Car,475,428.0,428.0,8.0,Cloudy,Moderate,,-47.0,-9.894736842105264
+2026-04-10,Tahir,Evening (2–6 PM),Mm Alam Road,Gulberg I,Bike,83,75.0,90.0,6.0,Cloudy,Moderate,,7.0,8.433734939759036
+2026-04-10,Tahir,Evening (2–6 PM),Gulberg I,Gulberg Ii,Rickshaw,140,127.0,201.0,1.0,Cloudy,Low,,61.0,43.57142857142857
+2026-04-10,Tahir,Evening (2–6 PM),Gulberg Ii,Gulberg Iii,Rickshaw,189,172.0,246.0,2.0,Cloudy,Moderate,,57.0,30.158730158730158
+2026-04-10,Tahir,Evening (2–6 PM),Gulberg Iii,Liberty Market,Car,348,317.0,400.0,5.0,Cloudy,Low,,52.0,14.942528735632186
+2026-04-10,Tahir,Evening (2–6 PM),Liberty Market,Garden Town,Car,333,425.0,425.0,3.0,Cloudy,Low,,92.0,27.627627627627625
+2026-04-10,Tahir,Evening (2–6 PM),Garden Town,Barkat Market,Bike,84,76.0,84.0,2.0,Cloudy,Moderate,,0.0,0.0
+2026-04-10,Tahir,Evening (2–6 PM),Barkat Market,Model Town,Bike,82,75.0,82.0,2.0,Cloudy,Moderate,,0.0,0.0
+2026-04-10,Tahir,Evening (2–6 PM),Model Town,Mm Alam Road,Rickshaw,283,258.0,340.0,1.0,Cloudy,Low,,57.0,20.141342756183743
+2026-04-10,Tahir,Evening (2–6 PM),Mm Alam Road,Gulberg I,Rickshaw,144,131.0,192.0,2.0,Cloudy,Low,,48.0,33.33333333333333
+2026-04-12,Tahir,Evening (2–6 PM),Gulberg I,Gulberg Iii,Car,275,250.0,303.0,2.0,Cloudy,Low,,28.0,10.181818181818182
+2026-04-12,Tahir,Evening (2–6 PM),Gulberg Ii,Liberty Market,Car,247,225.0,297.0,4.0,Cloudy,Low,,50.0,20.242914979757085
+2026-04-11,Tahir,Evening (2–6 PM),Gulberg I,Gulberg Ii,Car,212,193.0,212.0,6.0,Clear/Sunny,Low,,0.0,0.0
+2026-04-11,Tahir,Evening (2–6 PM),Gulberg Ii,Gulberg Iii,Car,242,220.0,242.0,9.0,Clear/Sunny,Low,,0.0,0.0
+2026-04-11,Tahir,Evening (2–6 PM),Gulberg Iii,Liberty Market,Bike,88,80.0,88.0,8.0,Cloudy,Low,,0.0,0.0
+2026-04-11,Tahir,Evening (2–6 PM),Liberty Market,Garden Town,Bike,102,93.0,102.0,7.0,Cloudy,Moderate,,0.0,0.0
+2026-04-11,Tahir,Night (6–10 PM),Garden Town,Barkat Market,Rickshaw,109,109.0,200.0,4.0,Cloudy,Low,,91.0,83.4862385321101
+2026-04-11,Tahir,Night (6–10 PM),Barkat Market,Model Town,Rickshaw,188,188.0,188.0,4.0,Cloudy,Moderate,,0.0,0.0
+2026-04-11,Tahir,Night (6–10 PM),Model Town,Mm Alam Road,Car,475,475.0,523.0,7.0,Cloudy,Low,,48.0,10.105263157894736
+2026-04-11,Tahir,Night (6–10 PM),Mm Alam Road,Dha,Car,615,615.0,615.0,8.0,Cloudy,Low,,0.0,0.0
+2026-04-11,Saira,Night (6–10 PM),Dha,Cavalry Ground,Bike,124,124.0,124.0,4.0,Cloudy,Moderate,,0.0,0.0
+2026-04-11,Saira,Night (6–10 PM),Cavalry Ground,Lahore Cantt,Bike,160,160.0,196.0,4.0,Cloudy,Low,,36.0,22.5
+2026-04-11,Saira,Night (6–10 PM),Lahore Cantt,Walton Road,Rickshaw,354,354.0,425.0,4.0,Cloudy,Moderate,,71.0,20.056497175141246
+2026-04-11,Saira,Night (6–10 PM),Walton Road,Askari,Rickshaw,397,397.0,497.0,1.0,Cloudy,Low,,100.0,25.188916876574307
+2026-04-11,Saira,Night (6–10 PM),Askari,Johar Town,Car,753,753.0,900.0,9.0,Cloudy,Low,,147.0,19.52191235059761
+2026-04-11,Saira,Night (6–10 PM),Johar Town,Faisal Town,Car,438,438.0,438.0,5.0,Cloudy,Moderate,,0.0,0.0
+2026-04-11,Saira,Night (6–10 PM),Faisal Town,Township,Bike,119,119.0,131.0,9.0,Cloudy,Low,,12.0,10.084033613445378
+2026-04-11,Saira,Night (6–10 PM),Township,P.I.A Society,Bike,107,107.0,107.0,2.0,Cloudy,Low,,0.0,0.0
+2026-04-11,Eman,Night (6–10 PM),P.I.A Society,Wapda Town,Rickshaw,196,196.0,245.0,3.0,Cloudy,Low,,49.0,25.0
+2026-04-11,Eman,Night (6–10 PM),Wapda Town,Valencia,Rickshaw,211,211.0,254.0,4.0,Cloudy,Moderate,,43.0,20.379146919431278
+2026-04-11,Eman,Night (6–10 PM),Valencia,Pcsir,Car,727,727.0,873.0,9.0,Cloudy,Low,,146.0,20.082530949105916
+2026-04-11,Eman,Night (6–10 PM),Pcsir,Bahria Town,Car,1041,1041.0,1261.0,4.0,Cloudy,Low,,220.0,21.133525456292027
+2026-04-11,Nalain,Night (6–10 PM),Bahria Town,Raiwind Road,Bike,184,184.0,184.0,3.0,Cloudy,Moderate,,0.0,0.0
+2026-04-11,Nalain,Night (6–10 PM),Raiwind Road,Lake City,Bike,108,108.0,108.0,2.0,Cloudy,Low,,0.0,0.0
+2026-04-11,Nalain,Night (6–10 PM),Lake City,Etihad Town,Rickshaw,495,495.0,545.0,2.0,Cloudy,Low,,50.0,10.1010101010101
+2026-04-11,Nalain,Night (6–10 PM),Etihad Town,Lda City,Rickshaw,917,917.0,1101.0,2.0,Cloudy,Moderate,,184.0,20.065430752453654
+2026-04-11,Nalain,Night (6–10 PM),Lda City,Dream Gardens,Car,1099,1099.0,1209.0,4.0,Cloudy,Low,,110.0,10.009099181073704
+2026-04-11,Nalain,Night (6–10 PM),Dream Gardens,Thokar Niaz Baig,Car,802,802.0,802.0,4.0,Cloudy,Low,,0.0,0.0
+2026-04-11,Ahmed,Night (6–10 PM),Thokar Niaz Baig,Allama Iqbal Town,Bike,152,152.0,187.0,7.0,Cloudy,Moderate,,35.0,23.026315789473685
+2026-04-11,Ahmed,Night (6–10 PM),Allama Iqbal Town,Sabzazar,Bike,97,97.0,145.0,5.0,Cloudy,Low,,48.0,49.48453608247423
+2026-04-11,Ahmed,Night (6–10 PM),Sabzazar,Samanabad,Rickshaw,237,237.0,237.0,7.0,Cloudy,Moderate,,0.0,0.0
+2026-04-11,Ahmed,Night (6–10 PM),Samanabad,Mansoora,Rickshaw,348,348.0,370.0,5.0,Cloudy,Moderate,,22.0,6.321839080459771
+2026-04-11,Ahmed,Night (6–10 PM),Mansoora,Wahadat Road,Car,559,559.0,559.0,7.0,Cloudy,Low,,0.0,0.0
+2026-04-11,Ahmed,Night (6–10 PM),Wahadat Road,Anarkali,Car,522,522.0,590.0,6.0,Cloudy,Low,,68.0,13.026819923371647
+2026-04-11,Fatima,Night (6–10 PM),Anarkali,Data Darbar Area,Bike,88,88.0,88.0,2.0,Cloudy,Moderate,,0.0,0.0
+2026-04-11,Fatima,Night (6–10 PM),Data Darbar Area,Mozang,Bike,100,100.0,140.0,4.0,Cloudy,Moderate,,40.0,40.0
+2026-04-11,Fatima,Night (6–10 PM),Mozang,Lower Mall,Rickshaw,176,176.0,200.0,2.0,Cloudy,Low,,24.0,13.636363636363635
+2026-04-11,Fatima,Night (6–10 PM),Lower Mall,Shahdara,Rickshaw,1394,1394.0,1394.0,4.0,Cloudy,Low,,0.0,0.0
+2026-04-11,Fatima,Night (6–10 PM),Shahdara,Islampura,Car,586,586.0,650.0,6.0,Cloudy,Low,,64.0,10.921501706484642
+2026-04-11,Fatima,Night (6–10 PM),Islampura,Chauburji,Car,255,255.0,281.0,4.0,Cloudy,Low,,26.0,10.196078431372548
+2026-04-11,Fatima,Night (6–10 PM),Chauburji,Mughalpura,Bike,196,196.0,196.0,1.0,Cloudy,Low,,0.0,0.0
+2026-04-11,Rameesha,Night (6–10 PM),Mughalpura,Harbanspura,Bike,151,151.0,151.0,3.0,Cloudy,Moderate,,0.0,0.0
+2026-04-11,Rameesha,Night (6–10 PM),Harbanspura,Kot Lakhpat,Rickshaw,805,805.0,805.0,3.0,Cloudy,Moderate,,0.0,0.0
+2026-04-11,Rameesha,Night (6–10 PM),Kot Lakhpat,Ghazi Road,Rickshaw,286,286.0,358.0,2.0,Cloudy,Moderate,,72.0,25.174825174825177
+2026-04-11,Rameesha,Night (6–10 PM),Ghazi Road,Tajpura,Car,1030,1030.0,1030.0,3.0,Cloudy,Moderate,,0.0,0.0
+2026-04-11,Rameesha,Night (6–10 PM),Tajpura,Jallo,Car,718,718.0,718.0,4.0,Cloudy,Moderate,,0.0,0.0
+2026-04-11,Rameesha,Night (6–10 PM),Jallo,Wagah Area,Bike,183,183.0,183.0,3.0,Cloudy,Low,,0.0,0.0
+2026-04-11,Rameesha,Night (6–10 PM),Wagah Area,Gulberg I,Bike,365,365.0,870.0,4.0,Cloudy,Low,,505.0,138.35616438356163
+2026-04-11,Tahir,Night (6–10 PM),Gulberg I,Gulberg Iii,Rickshaw,203,203.0,250.0,2.0,Cloudy,Low,,47.0,23.15270935960591
+2026-04-11,Tahir,Night (6–10 PM),Gulberg Ii,Liberty Market,Rickshaw,194,243.0,243.0,3.0,Cloudy,Moderate,,49.0,25.257731958762886
+2026-04-11,Tahir,Night (6–10 PM),Gulberg Iii,Garden Town,Car,265,265.0,299.0,3.0,Cloudy,Moderate,,34.0,12.830188679245284
+2026-04-11,Tahir,Night (6–10 PM),Liberty Market,Barkat Market,Car,1556,1556.0,1556.0,4.0,Cloudy,Low,,0.0,0.0
+2026-04-11,Tahir,Night (6–10 PM),Garden Town,Model Town,Bike,98,98.0,121.0,1.0,Cloudy,Low,,23.0,23.46938775510204
+2026-04-11,Saira,Night (6–10 PM),Barkat Market,Mm Alam Road,Bike,125,125.0,138.0,4.0,Cloudy,Moderate,,13.0,10.4
+2026-04-11,Saira,Night (6–10 PM),Model Town,Dha,Rickshaw,450,450.0,550.0,3.0,Cloudy,Low,,100.0,22.22222222222222
+2026-04-11,Saira,Night (6–10 PM),Mm Alam Road,Cavalry Ground,Rickshaw,179,179.0,215.0,1.0,Cloudy,Low,,36.0,20.11173184357542
+2026-04-11,Saira,Night (6–10 PM),Dha,Lahore Cantt,Car,284,284.0,284.0,4.0,Cloudy,Low,,0.0,0.0
+2026-04-11,Saira,Night (6–10 PM),Cavalry Ground,Walton Road,Car,359,359.0,458.0,4.0,Cloudy,Moderate,,99.0,27.57660167130919
+2026-04-11,Saira,Night (6–10 PM),Lahore Cantt,Askari,Bike,120,120.0,120.0,7.0,Cloudy,Low,,0.0,0.0
+2026-04-11,Saira,Night (6–10 PM),Walton Road,Johar Town,Bike,203,203.0,250.0,2.0,Cloudy,Low,,47.0,23.15270935960591
+2026-04-11,Saira,Night (6–10 PM),Askari,Faisal Town,Rickshaw,660,660.0,825.0,1.0,Cloudy,Low,,165.0,25.0
+2026-04-11,Saira,Night (6–10 PM),Johar Town,Township,Rickshaw,571,571.0,714.0,1.0,Cloudy,Moderate,,143.0,25.04378283712785
+2026-04-11,Eman,Night (6–10 PM),Faisal Town,P.I.A Society,Car,418,418.0,450.0,4.0,Cloudy,Low,,32.0,7.655502392344498
+2026-04-12,Eman,Afternoon (11 AM–2 PM),Township,Wapda Town,Car,538,490.0,646.0,6.0,Clear/Sunny,Moderate,,108.0,20.074349442379184
+2026-04-12,Eman,Afternoon (11 AM–2 PM),P.I.A Society,Valencia,Bike,157,143.0,180.0,9.0,Clear/Sunny,Low,,23.0,14.64968152866242
+2026-04-12,Eman,Afternoon (11 AM–2 PM),Wapda Town,Pcsir,Bike,96,87.0,118.0,2.0,Clear/Sunny,Low,,22.0,22.916666666666664
+2026-04-12,Eman,Afternoon (11 AM–2 PM),Valencia,Bahria Town,Rickshaw,414,377.0,715.0,1.0,Clear/Sunny,Low,,301.0,72.70531400966183
+2026-04-12,Eman,Afternoon (11 AM–2 PM),Pcsir,Raiwind Road,Rickshaw,479,436.0,527.0,3.0,Clear/Sunny,Moderate,,48.0,10.020876826722338
+2026-04-12,Nalain,Afternoon (11 AM–2 PM),Bahria Town,Lake City,Car,680,619.0,816.0,4.0,Clear/Sunny,Low,,136.0,20.0
+2026-04-12,Nalain,Afternoon (11 AM–2 PM),Raiwind Road,Etihad Town,Car,483,440.0,532.0,8.0,Clear/Sunny,Moderate,,49.0,10.144927536231885
+2026-04-12,Nalain,Afternoon (11 AM–2 PM),Lake City,Lda City,Bike,283,258.0,347.0,5.0,Clear/Sunny,Moderate,,64.0,22.614840989399294
+2026-04-12,Nalain,Afternoon (11 AM–2 PM),Etihad Town,Dream Gardens,Bike,165,150.0,165.0,2.0,Clear/Sunny,Moderate,,0.0,0.0
+2026-04-12,Nalain,Afternoon (11 AM–2 PM),Lda City,Thokar Niaz Baig,Rickshaw,850,774.0,1020.0,2.0,Clear/Sunny,Moderate,,170.0,20.0
+2026-04-12,Nalain,Afternoon (11 AM–2 PM),Dream Gardens,Allama Iqbal Town,Rickshaw,647,589.0,712.0,1.0,Clear/Sunny,Moderate,,65.0,10.046367851622875
+2026-04-12,Ahmed,Afternoon (11 AM–2 PM),Thokar Niaz Baig,Sabzazar,Car,490,446.0,539.0,6.0,Clear/Sunny,Moderate,,49.0,10.0
+2026-04-12,Ahmed,Afternoon (11 AM–2 PM),Allama Iqbal Town,Samanabad,Car,337,307.0,337.0,7.0,Clear/Sunny,Moderate,,0.0,0.0
+2026-04-12,Ahmed,Afternoon (11 AM–2 PM),Sabzazar,Mansoora,Bike,109,99.0,120.0,5.0,Clear/Sunny,Low,,11.0,10.091743119266056
+2026-04-12,Ahmed,Afternoon (11 AM–2 PM),Samanabad,Wahadat Road,Bike,127,116.0,156.0,4.0,Clear/Sunny,Moderate,,29.0,22.83464566929134
+2026-04-12,Ahmed,Afternoon (11 AM–2 PM),Mansoora,Anarkali,Rickshaw,416,379.0,500.0,1.0,Clear/Sunny,Low,,84.0,20.192307692307693
+2026-04-12,Ahmed,Afternoon (11 AM–2 PM),Wahadat Road,Data Darbar Area,Rickshaw,347,316.0,500.0,1.0,Clear/Sunny,Moderate,,153.0,44.09221902017291
+2026-04-12,Fatima,Afternoon (11 AM–2 PM),Anarkali,Mozang,Car,253,230.0,323.0,1.0,Clear/Sunny,Moderate,,70.0,27.66798418972332
+2026-04-12,Fatima,Afternoon (11 AM–2 PM),Data Darbar Area,Lower Mall,Car,839,838.0,923.0,11.0,Clear/Sunny,Moderate,,84.0,10.011918951132301
+2026-04-12,Fatima,Afternoon (11 AM–2 PM),Mozang,Shahdara,Bike,506,460.0,506.0,3.0,Clear/Sunny,Low,,0.0,0.0
+2026-04-12,Fatima,Afternoon (11 AM–2 PM),Lower Mall,Islampura,Bike,74,67.0,74.0,2.0,Clear/Sunny,Moderate,,0.0,0.0
+2026-04-12,Fatima,Afternoon (11 AM–2 PM),Shahdara,Chauburji,Rickshaw,435,396.0,600.0,2.0,Clear/Sunny,Moderate,,165.0,37.93103448275862
+2026-04-12,Fatima,Afternoon (11 AM–2 PM),Islampura,Mughalpura,Rickshaw,451,410.0,497.0,5.0,Clear/Sunny,Low,,46.0,10.199556541019955
+2026-04-12,Fatima,Afternoon (11 AM–2 PM),Chauburji,Harbanspura,Car,680,619.0,680.0,6.0,Clear/Sunny,Moderate,,0.0,0.0
+2026-04-12,Rameesha,Afternoon (11 AM–2 PM),Mughalpura,Kot Lakhpat,Car,720,655.0,864.0,5.0,Clear/Sunny,Moderate,,144.0,20.0
+2026-04-12,Rameesha,Afternoon (11 AM–2 PM),Harbanspura,Ghazi Road,Bike,259,236.0,259.0,8.0,Clear/Sunny,Low,,0.0,0.0
+2026-04-12,Rameesha,Afternoon (11 AM–2 PM),Kot Lakhpat,Tajpura,Bike,270,246.0,331.0,2.0,Clear/Sunny,Low,,61.0,22.59259259259259
+2026-04-12,Rameesha,Afternoon (11 AM–2 PM),Ghazi Road,Jallo,Rickshaw,811,738.0,1200.0,6.0,Clear/Sunny,Moderate,,389.0,47.965474722564736
+2026-04-12,Rameesha,Afternoon (11 AM–2 PM),Tajpura,Wagah Area,Rickshaw,750,683.0,900.0,2.0,Clear/Sunny,Moderate,,150.0,20.0
+2026-04-12,Rameesha,Afternoon (11 AM–2 PM),Jallo,Gulberg I,Car,903,822.0,994.0,7.0,Clear/Sunny,Low,,91.0,10.077519379844961
+2026-04-12,Rameesha,Afternoon (11 AM–2 PM),Wagah Area,Gulberg Ii,Car,1168,1063.0,1700.0,1.0,Clear/Sunny,Moderate,,532.0,45.54794520547945
+2026-04-12,Tahir,Afternoon (11 AM–2 PM),Gulberg I,Liberty Market,Bike,67,61.0,67.0,4.0,Clear/Sunny,Moderate,,0.0,0.0
+2026-04-21,Tahir,Morning (8–11 AM),Gulberg Ii,Garden Town,Bike,101,92.0,101.0,9.0,Clear/Sunny,Low,,0.0,0.0
+2026-04-21,Tahir,Morning (8–11 AM),Gulberg Iii,Barkat Market,Rickshaw,203,185.0,203.0,9.0,Clear/Sunny,Moderate,,0.0,0.0
+2026-04-21,Tahir,Evening (2–6 PM),Liberty Market,Model Town,Rickshaw,286,257.0,283.0,8.0,Clear/Sunny,Moderate,,-3.0,-1.048951048951049
+2026-04-21,Tahir,Morning (8–11 AM),Garden Town,Mm Alam Road,Car,355,320.0,400.0,4.0,Clear/Sunny,Low,,45.0,12.676056338028168
+2026-04-21,Tahir,Morning (8–11 AM),Barkat Market,Dha,Car,596,536.0,644.0,1.0,Clear/Sunny,Moderate,,48.0,8.053691275167784
+2026-04-21,Tahir,Morning (8–11 AM),Model Town,Cavalry Ground,Bike,158,142.0,185.0,5.0,Clear/Sunny,Low,,27.0,17.088607594936708
+2026-04-21,Tahir,Morning (8–11 AM),Mm Alam Road,Lahore Cantt,Bike,186,167.0,201.0,5.0,Clear/Sunny,Low,,15.0,8.064516129032258
+2026-04-21,Saira,Morning (8–11 AM),Dha,Walton Road,Rickshaw,266,239.0,263.0,2.0,Clear/Sunny,Low,,-3.0,-1.1278195488721803
+2026-04-21,Saira,Morning (8–11 AM),Cavalry Ground,Askari,Rickshaw,235,201.0,300.0,1.0,Clear/Sunny,Low,,65.0,27.659574468085108
+2026-04-21,Saira,Morning (8–11 AM),Lahore Cantt,Johar Town,Car,857,771.0,926.0,3.0,Clear/Sunny,Moderate,,69.0,8.051341890315053
+2026-04-21,Saira,Morning (8–11 AM),Walton Road,Faisal Town,Car,448,403.0,500.0,3.0,Clear/Sunny,Moderate,,52.0,11.607142857142858
+2026-04-21,Saira,Morning (8–11 AM),Askari,Township,Bike,292,263.0,394.0,2.0,Clear/Sunny,Moderate,,102.0,34.93150684931507
+2026-04-21,Eman,Morning (8–11 AM),Johar Town,P.I.A Society,Bike,135,122.0,147.0,5.0,Clear/Sunny,Moderate,,12.0,8.88888888888889
+2026-04-21,Eman,Morning (8–11 AM),Faisal Town,Wapda Town,Rickshaw,328,295.0,384.0,5.0,Clear/Sunny,Moderate,,56.0,17.073170731707318
+2026-04-21,Eman,Morning (8–11 AM),Township,Valencia,Rickshaw,330,297.0,300.0,4.0,Clear/Sunny,Low,,-30.0,-9.090909090909092
+2026-04-21,Eman,Afternoon (11 AM–2 PM),P.I.A Society,Pcsir,Car,230,215.0,255.0,8.0,Clear/Sunny,Low,,25.0,10.869565217391305
+2026-04-21,Eman,Afternoon (11 AM–2 PM),Wapda Town,Bahria Town,Car,773,696.0,700.0,3.0,Clear/Sunny,Moderate,,-73.0,-9.44372574385511
+2026-04-21,Eman,Afternoon (11 AM–2 PM),Valencia,Raiwind Road,Bike,134,114.0,130.0,4.0,Clear/Sunny,Low,,-4.0,-2.9850746268656714
+2026-04-24,Eman,Afternoon (11 AM–2 PM),Pcsir,Lake City,Bike,224,202.0,210.0,5.0,Clear/Sunny,Low,,-14.0,-6.25
+2026-04-24,Nalain,Afternoon (11 AM–2 PM),Bahria Town,Etihad Town,Rickshaw,559,482.0,510.0,2.0,Clear/Sunny,Moderate,,-49.0,-8.765652951699463
+2026-04-24,Nalain,Afternoon (11 AM–2 PM),Raiwind Road,Lda City,Rickshaw,652,573.0,602.0,4.0,Clear/Sunny,Low,,-50.0,-7.668711656441718
+2026-04-24,Nalain,Afternoon (11 AM–2 PM),Lake City,Dream Gardens,Car,501,410.0,451.0,2.0,Clear/Sunny,Moderate,,-50.0,-9.980039920159681
+2026-04-24,Nalain,Afternoon (11 AM–2 PM),Etihad Town,Thokar Niaz Baig,Car,410,369.0,400.0,3.0,Clear/Sunny,Low,,-10.0,-2.4390243902439024
+2026-04-24,Nalain,Afternoon (11 AM–2 PM),Lda City,Allama Iqbal Town,Bike,323,280.0,320.0,3.0,Clear/Sunny,Moderate,,-3.0,-0.9287925696594427
+2026-04-24,Nalain,Evening (2–6 PM),Dream Gardens,Sabzazar,Bike,345,293.0,340.0,2.0,Rain,Moderate,,-5.0,-1.4492753623188406
+2026-04-23,Ahmed,Evening (2–6 PM),Thokar Niaz Baig,Samanabad,Rickshaw,395,356.0,390.0,2.0,Rain,Low,,-5.0,-1.2658227848101267
+2026-04-23,Ahmed,Evening (2–6 PM),Allama Iqbal Town,Mansoora,Rickshaw,194,160.0,175.0,2.0,Rain,Moderate,,-19.0,-9.793814432989691
+2026-04-23,Ahmed,Evening (2–6 PM),Sabzazar,Wahadat Road,Car,454,409.0,450.0,3.0,Cloudy,Low,,-4.0,-0.881057268722467
+2026-04-23,Ahmed,Evening (2–6 PM),Samanabad,Anarkali,Car,392,353.0,360.0,3.0,Cloudy,Low,,-32.0,-8.16326530612245
+2026-04-23,Ahmed,Evening (2–6 PM),Mansoora,Data Darbar Area,Bike,222,200.0,200.0,2.0,Cloudy,Low,,-22.0,-9.90990990990991
+2026-04-23,Ahmed,Evening (2–6 PM),Wahadat Road,Mozang,Bike,133,119.0,130.0,3.0,Clear/Sunny,Low,,-3.0,-2.2556390977443606
+2026-04-23,Fatima,Evening (2–6 PM),Anarkali,Lower Mall,Rickshaw,135,102.0,120.0,4.0,Clear/Sunny,Moderate,,-15.0,-11.11111111111111
+2026-04-22,Fatima,Evening (2–6 PM),Data Darbar Area,Shahdara,Rickshaw,1377,1088.0,1288.0,1.0,Clear/Sunny,Low,,-89.0,-6.463326071169208
+2026-04-22,Fatima,Evening (2–6 PM),Mozang,Islampura,Car,227,204.0,204.0,2.0,Clear/Sunny,Low,,-23.0,-10.13215859030837
+2026-04-22,Fatima,Evening (2–6 PM),Lower Mall,Chauburji,Car,223,201.0,220.0,3.0,Clear/Sunny,Low,,-3.0,-1.345291479820628
+2026-04-24,Fatima,Evening (2–6 PM),Shahdara,Mughalpura,Bike,238,202.0,230.0,2.0,Clear/Sunny,Moderate,,-8.0,-3.361344537815126
+2026-04-24,Fatima,Evening (2–6 PM),Islampura,Harbanspura,Bike,293,249.0,256.0,2.0,Clear/Sunny,Moderate,,-37.0,-12.627986348122866
+2026-04-24,Fatima,Evening (2–6 PM),Chauburji,Kot Lakhpat,Rickshaw,533,454.0,502.0,3.0,Clear/Sunny,Low,,-31.0,-5.816135084427768
+2026-04-24,Rameesha,Evening (2–6 PM),Mughalpura,Ghazi Road,Rickshaw,612,493.0,539.0,3.0,Clear/Sunny,Low,,-73.0,-11.928104575163399
+2026-04-24,Rameesha,Evening (2–6 PM),Harbanspura,Tajpura,Car,383,345.0,355.0,4.0,Cloudy,Low,,-28.0,-7.310704960835509
+2026-04-24,Rameesha,Evening (2–6 PM),Kot Lakhpat,Jallo,Car,1212,1091.0,1127.0,3.0,Cloudy,Low,,-85.0,-7.013201320132014
+2026-04-24,Rameesha,Evening (2–6 PM),Ghazi Road,Wagah Area,Bike,488,439.0,458.0,4.0,Cloudy,Moderate,,-30.0,-6.147540983606557
+2026-04-24,Rameesha,Evening (2–6 PM),Tajpura,Gulberg I,Bike,233,190.0,190.0,2.0,Cloudy,Low,,-43.0,-18.4549356223176
+2026-04-24,Rameesha,Evening (2–6 PM),Jallo,Gulberg Ii,Rickshaw,865,753.0,839.0,1.0,Cloudy,Moderate,,-26.0,-3.005780346820809
+2026-04-24,Rameesha,Evening (2–6 PM),Wagah Area,Gulberg Iii,Rickshaw,1167,1050.0,1140.0,1.0,Cloudy,Low,,-27.0,-2.313624678663239
+2026-04-24,Tahir,Evening (2–6 PM),Gulberg I,Garden Town,Car,261,235.0,246.0,2.0,Cloudy,Low,,-15.0,-5.747126436781609
+2026-04-24,Tahir,Evening (2–6 PM),Gulberg Ii,Barkat Market,Car,319,287.0,317.0,2.0,Cloudy,Low,,-2.0,-0.6269592476489028
+2026-04-24,Tahir,Evening (2–6 PM),Gulberg Iii,Model Town,Bike,110,99.0,103.0,2.0,Cloudy,Moderate,,-7.0,-6.363636363636363
+2026-04-23,Tahir,Evening (2–6 PM),Liberty Market,Mm Alam Road,Bike,94,85.0,90.0,3.0,Cloudy,Low,,-4.0,-4.25531914893617
+2026-04-22,Tahir,Evening (2–6 PM),Garden Town,Dha,Rickshaw,390,351.0,351.0,3.0,Cloudy,Moderate,,-39.0,-10.0
+2026-04-22,Tahir,Evening (2–6 PM),Barkat Market,Cavalry Ground,Rickshaw,264,238.0,238.0,3.0,Cloudy,Moderate,,-26.0,-9.848484848484848
+2026-04-22,Tahir,Evening (2–6 PM),Model Town,Lahore Cantt,Car,709,638.0,700.0,2.0,Cloudy,Low,,-9.0,-1.2693935119887165
+2026-04-21,Tahir,Evening (2–6 PM),Mm Alam Road,Walton Road,Car,455,410.0,420.0,2.0,Cloudy,Moderate,,-35.0,-7.6923076923076925
+2026-04-21,Saira,Evening (2–6 PM),Dha,Askari,Bike,174,148.0,160.0,4.0,Clear/Sunny,Moderate,,-14.0,-8.045977011494253
+2026-04-21,Saira,Evening (2–6 PM),Cavalry Ground,Johar Town,Bike,190,,180.0,4.0,Clear/Sunny,Low,,-10.0,-5.263157894736842
+2026-04-21,Saira,Evening (2–6 PM),Lahore Cantt,Faisal Town,Rickshaw,568,511.0,530.0,4.0,Clear/Sunny,Moderate,,-38.0,-6.690140845070422
+2026-04-24,Saira,Evening (2–6 PM),Walton Road,Township,Rickshaw,490,430.0,441.0,3.0,Clear/Sunny,Low,,-49.0,-10.0
+2026-04-23,Saira,Evening (2–6 PM),Askari,P.I.A Society,Car,873,786.0,806.0,2.0,Clear/Sunny,Low,,-67.0,-7.674684994272623
+2026-04-23,Eman,Evening (2–6 PM),Johar Town,Wapda Town,Car,431,388.0,423.0,2.0,Clear/Sunny,Low,,-8.0,-1.8561484918793503
+2026-04-23,Eman,Evening (2–6 PM),Faisal Town,Valencia,Bike,204,184.0,203.0,1.0,Clear/Sunny,Moderate,,-1.0,-0.49019607843137253
+2026-04-23,Eman,Evening (2–6 PM),Township,Pcsir,Bike,218,185.0,205.0,3.0,Clear/Sunny,Low,,-13.0,-5.963302752293578
+2026-04-23,Eman,Evening (2–6 PM),P.I.A Society,Bahria Town,Rickshaw,655,590.0,620.0,3.0,Clear/Sunny,Moderate,,-35.0,-5.343511450381679
+2026-04-23,Eman,Evening (2–6 PM),Wapda Town,Raiwind Road,Rickshaw,367,330.0,339.0,3.0,Clear/Sunny,Moderate,,-28.0,-7.629427792915531
+2026-04-23,Eman,Evening (2–6 PM),Valencia,Lake City,Car,429,386.0,413.0,5.0,Clear/Sunny,Moderate,,-16.0,-3.7296037296037294
+2026-04-23,Eman,Evening (2–6 PM),Pcsir,Etihad Town,Car,447,429.0,437.0,5.0,Clear/Sunny,Low,,-10.0,-2.237136465324385
+2026-04-22,Nalain,Evening (2–6 PM),Bahria Town,Lda City,Bike,412,371.0,390.0,2.0,Cloudy,Low,,-22.0,-5.339805825242718
+2026-04-22,Nalain,Evening (2–6 PM),Raiwind Road,Dream Gardens,Bike,129,110.0,117.0,4.0,Cloudy,Moderate,,-12.0,-9.30232558139535
+2026-04-22,Nalain,Evening (2–6 PM),Lake City,Thokar Niaz Baig,Rickshaw,689,595.0,635.0,4.0,Cloudy,Moderate,,-54.0,-7.837445573294629
+2026-04-22,Nalain,Evening (2–6 PM),Etihad Town,Allama Iqbal Town,Rickshaw,454,409.0,420.0,4.0,Cloudy,Moderate,,-34.0,-7.488986784140969
+2026-04-22,Nalain,Evening (2–6 PM),Lda City,Sabzazar,Car,1096,986.0,1008.0,3.0,Cloudy,Moderate,,-88.0,-8.02919708029197
+2026-04-21,Nalain,Evening (2–6 PM),Dream Gardens,Samanabad,Car,1136,1022.0,1128.0,3.0,Cloudy,Low,,-8.0,-0.7042253521126761
+2026-04-21,Ahmed,Evening (2–6 PM),Thokar Niaz Baig,Mansoora,Bike,112,101.0,101.0,2.0,Cloudy,Low,,-11.0,-9.821428571428571
+2026-04-21,Ahmed,Evening (2–6 PM),Allama Iqbal Town,Wahadat Road,Bike,123,110.0,123.0,3.0,Cloudy,Moderate,,0.0,0.0
+2026-04-21,Ahmed,Evening (2–6 PM),Sabzazar,Anarkali,Rickshaw,339,305.0,317.0,4.0,Cloudy,Low,,-22.0,-6.489675516224189
+2026-04-22,Ahmed,Evening (2–6 PM),Samanabad,Data Darbar Area,Rickshaw,289,210.0,260.0,2.0,Cloudy,Moderate,,-29.0,-10.034602076124568
+2026-04-24,Ahmed,Evening (2–6 PM),Mansoora,Mozang,Car,615,554.0,665.0,4.0,Clear/Sunny,Moderate,,50.0,8.130081300813007
+2026-04-24,Ahmed,Evening (2–6 PM),Wahadat Road,Lower Mall,Car,461,415.0,415.0,8.0,Clear/Sunny,Moderate,,-46.0,-9.97830802603037
+2026-04-24,Fatima,Evening (2–6 PM),Anarkali,Shahdara,Bike,512,452.0,452.0,2.0,Clear/Sunny,Low,,-60.0,-11.71875
+2026-04-24,Fatima,Evening (2–6 PM),Data Darbar Area,Islampura,Bike,225,221.0,221.0,3.0,Clear/Sunny,Moderate,,-4.0,-1.7777777777777777
+2026-04-24,Fatima,Evening (2–6 PM),Mozang,Chauburji,Rickshaw,155,123.0,155.0,3.0,Clear/Sunny,Low,,0.0,0.0
+2026-04-24,Fatima,Evening (2–6 PM),Lower Mall,Mughalpura,Rickshaw,334,264.0,350.0,1.0,Clear/Sunny,Low,,16.0,4.790419161676647
+2026-04-24,Fatima,Evening (2–6 PM),Shahdara,Harbanspura,Car,949,854.0,1020.0,4.0,Clear/Sunny,Low,,71.0,7.481559536354057
+2026-04-24,Fatima,Evening (2–6 PM),Islampura,Kot Lakhpat,Car,817,735.0,809.0,3.0,Clear/Sunny,Moderate,,-8.0,-0.9791921664626682
+2026-04-24,Fatima,Evening (2–6 PM),Chauburji,Ghazi Road,Bike,223,199.0,250.0,4.0,Clear/Sunny,Moderate,,27.0,12.10762331838565
+2026-04-24,Rameesha,Evening (2–6 PM),Mughalpura,Tajpura,Bike,124,113.0,138.0,4.0,Clear/Sunny,Low,,14.0,11.29032258064516
+2026-04-24,Rameesha,Evening (2–6 PM),Harbanspura,Jallo,Rickshaw,365,295.0,400.0,4.0,Clear/Sunny,Moderate,,35.0,9.58904109589041
+2026-04-24,Rameesha,Evening (2–6 PM),Kot Lakhpat,Wagah Area,Rickshaw,1106,995.0,1294.0,2.0,Clear/Sunny,Moderate,,188.0,16.998191681735985
+2026-04-24,Rameesha,Evening (2–6 PM),Ghazi Road,Gulberg I,Car,594,535.0,589.0,2.0,Clear/Sunny,Moderate,,-5.0,-0.8417508417508417
+2026-04-24,Rameesha,Evening (2–6 PM),Tajpura,Gulberg Ii,Car,529,481.0,600.0,5.0,Clear/Sunny,Low,,71.0,13.42155009451796
+2026-04-24,Rameesha,Evening (2–6 PM),Jallo,Gulberg Iii,Bike,317,285.0,330.0,3.0,Clear/Sunny,Moderate,,13.0,4.100946372239748
+2026-04-24,Rameesha,Evening (2–6 PM),Wagah Area,Liberty Market,Bike,397,357.0,450.0,1.0,Clear/Sunny,Moderate,,53.0,13.350125944584383
+2026-04-24,Tahir,Evening (2–6 PM),Gulberg I,Barkat Market,Rickshaw,209,188.0,245.0,1.0,Clear/Sunny,Low,,36.0,17.22488038277512
+2026-04-24,Tahir,Evening (2–6 PM),Gulberg Ii,Model Town,Rickshaw,310,279.0,363.0,4.0,Clear/Sunny,Moderate,,53.0,17.096774193548388
+2026-04-24,Tahir,Night (6–10 PM),Gulberg Iii,Mm Alam Road,Car,251,226.0,272.0,5.0,Clear/Sunny,Low,,21.0,8.366533864541832
+2026-04-24,Tahir,Night (6–10 PM),Liberty Market,Dha,Car,464,418.0,544.0,3.0,Clear/Sunny,Moderate,,80.0,17.24137931034483
+2026-04-24,Tahir,Night (6–10 PM),Garden Town,Cavalry Ground,Bike,129,116.0,116.0,5.0,Clear/Sunny,Low,,-13.0,-10.077519379844961
+2026-04-24,Tahir,Night (6–10 PM),Barkat Market,Lahore Cantt,Bike,221,199.0,199.0,5.0,Clear/Sunny,Moderate,,-22.0,-9.95475113122172
+2026-04-24,Tahir,Night (6–10 PM),Model Town,Walton Road,Rickshaw,352,317.0,349.0,5.0,Clear/Sunny,Low,,-3.0,-0.8522727272727272
+2026-04-24,Tahir,Night (6–10 PM),Mm Alam Road,Askari,Rickshaw,288,228.0,340.0,1.0,Clear/Sunny,Low,,52.0,18.055555555555554
+2026-04-24,Saira,Night (6–10 PM),Dha,Johar Town,Car,833,750.0,825.0,7.0,Clear/Sunny,Low,,-8.0,-0.9603841536614646
+2026-04-24,Saira,Night (6–10 PM),Cavalry Ground,Faisal Town,Car,505,455.0,501.0,6.0,Clear/Sunny,Low,,-4.0,-0.7920792079207921
+2026-04-24,Saira,Night (6–10 PM),Lahore Cantt,Township,Bike,266,239.0,301.0,7.0,Clear/Sunny,Moderate,,35.0,13.157894736842104
+2026-04-24,Saira,Night (6–10 PM),Walton Road,P.I.A Society,Bike,199,179.0,179.0,6.0,Clear/Sunny,Low,,-20.0,-10.050251256281408
+2026-04-24,Saira,Night (6–10 PM),Askari,Wapda Town,Rickshaw,760,750.0,1140.0,1.0,Clear/Sunny,Moderate,long wait,380.0,50.0
+2026-04-24,Eman,Night (6–10 PM),Johar Town,Valencia,Rickshaw,396,356.0,450.0,4.0,Cloudy,Low,,54.0,13.636363636363635
+2026-04-24,Eman,Night (6–10 PM),Faisal Town,Pcsir,Car,400,360.0,396.0,8.0,Clear/Sunny,Low,,-4.0,-1.0
+2026-04-24,Eman,Night (6–10 PM),Township,Bahria Town,Car,1028,925.0,1110.0,5.0,Clear/Sunny,Low,,82.0,7.976653696498054
+2026-04-24,Eman,Night (6–10 PM),P.I.A Society,Raiwind Road,Bike,216,194.0,233.0,7.0,Clear/Sunny,Moderate,,17.0,7.87037037037037
+2026-04-24,Eman,Night (6–10 PM),Wapda Town,Lake City,Bike,195,176.0,176.0,4.0,Clear/Sunny,Low,,-19.0,-9.743589743589745
+2026-04-24,Eman,Night (6–10 PM),Valencia,Etihad Town,Rickshaw,322,290.0,319.0,4.0,Clear/Sunny,Low,,-3.0,-0.9316770186335404
+2026-04-24,Eman,Night (6–10 PM),Pcsir,Lda City,Rickshaw,726,653.0,849.0,2.0,Clear/Sunny,Low,,123.0,16.94214876033058
+2026-04-24,Nalain,Night (6–10 PM),Bahria Town,Dream Gardens,Car,427,384.0,384.0,9.0,Clear/Sunny,Moderate,,-43.0,-10.070257611241217
+2026-04-24,Nalain,Night (6–10 PM),Raiwind Road,Thokar Niaz Baig,Car,701,631.0,695.0,7.0,Clear/Sunny,Low,,-6.0,-0.8559201141226819
+2026-04-24,Nalain,Night (6–10 PM),Lake City,Allama Iqbal Town,Bike,331,298.0,330.0,5.0,Clear/Sunny,Low,,-1.0,-0.3021148036253776
+2026-04-24,Nalain,Night (6–10 PM),Etihad Town,Sabzazar,Bike,193,174.0,209.0,2.0,Clear/Sunny,Moderate,,16.0,8.290155440414509
+2026-04-24,Nalain,Night (6–10 PM),Lda City,Samanabad,Rickshaw,784,706.0,848.0,4.0,Clear/Sunny,Low,,64.0,8.16326530612245
+2026-04-24,Nalain,Late Night (10 PM+),Dream Gardens,Mansoora,Rickshaw,543,543.0,810.0,1.0,Clear/Sunny,Low,long wait,267.0,49.171270718232044
+2026-04-24,Ahmed,Late Night (10 PM+),Thokar Niaz Baig,Wahadat Road,Car,637,573.0,573.0,7.0,Clear/Sunny,Moderate,,-64.0,-10.047095761381476
+2026-04-24,Ahmed,Late Night (10 PM+),Allama Iqbal Town,Anarkali,Car,475,428.0,428.0,8.0,Clear/Sunny,Low,,-47.0,-9.894736842105264
+2026-04-24,Ahmed,Late Night (10 PM+),Sabzazar,Data Darbar Area,Bike,186,167.0,184.0,5.0,Clear/Sunny,Moderate,,-2.0,-1.0752688172043012
+2026-04-24,Ahmed,Late Night (10 PM+),Samanabad,Mozang,Bike,123,111.0,145.0,5.0,Clear/Sunny,Moderate,,22.0,17.88617886178862
+2026-04-24,Ahmed,Late Night (10 PM+),Mansoora,Lower Mall,Rickshaw,421,369.0,480.0,3.0,Clear/Sunny,Moderate,,59.0,14.014251781472684
+2026-04-24,Ahmed,Late Night (10 PM+),Wahadat Road,Shahdara,Rickshaw,453,386.0,500.0,1.0,Clear/Sunny,Moderate,,47.0,10.375275938189846
+2026-04-24,Fatima,Late Night (10 PM+),Anarkali,Islampura,Car,232,209.0,209.0,4.0,Clear/Sunny,Low,,-23.0,-9.913793103448276
+2026-04-24,Fatima,Late Night (10 PM+),Data Darbar Area,Chauburji,Car,743,669.0,736.0,8.0,Clear/Sunny,Low,,-7.0,-0.9421265141318977
+2026-04-24,Fatima,Late Night (10 PM+),Mozang,Mughalpura,Bike,124,112.0,135.0,1.0,Clear/Sunny,Moderate,,11.0,8.870967741935484
+2026-04-24,Fatima,Late Night (10 PM+),Lower Mall,Harbanspura,Bike,216,194.0,233.0,3.0,Clear/Sunny,Moderate,,17.0,7.87037037037037
+2026-04-24,Fatima,Late Night (10 PM+),Shahdara,Kot Lakhpat,Rickshaw,905,715.0,1000.0,1.0,Clear/Sunny,Low,,95.0,10.497237569060774
+2026-04-24,Fatima,Late Night (10 PM+),Islampura,Ghazi Road,Rickshaw,578,457.0,549.0,3.0,Clear/Sunny,Moderate,,-29.0,-5.017301038062284
+2026-04-24,Fatima,Late Night (10 PM+),Chauburji,Tajpura,Car,631,568.0,700.0,1.0,Clear/Sunny,Moderate,,69.0,10.935023771790808
+2026-04-24,Rameesha,Late Night (10 PM+),Mughalpura,Jallo,Car,710,639.0,767.0,2.0,Clear/Sunny,Moderate,,57.0,8.028169014084508
+2026-04-24,Rameesha,Late Night (10 PM+),Harbanspura,Wagah Area,Bike,247,222.0,302.0,2.0,Clear/Sunny,Moderate,,55.0,22.267206477732792
+2026-04-24,Rameesha,Late Night (10 PM+),Kot Lakhpat,Gulberg I,Bike,193,174.0,300.0,1.0,Clear/Sunny,Moderate,,107.0,55.44041450777202
+2026-04-24,Rameesha,Late Night (10 PM+),Ghazi Road,Gulberg Ii,Rickshaw,498,393.0,472.0,3.0,Clear/Sunny,Low,,-26.0,-5.220883534136546
+2026-04-24,Rameesha,Late Night (10 PM+),Tajpura,Gulberg Iii,Rickshaw,459,386.0,425.0,3.0,Cloudy,Moderate,,-34.0,-7.4074074074074066
+2026-04-24,Fatima,Late Night (10 PM+),Mustafa Town,Pizza M21 Pia Road Branch,Rickshaw,967,900.0,1203.0,6.0,Cloudy,Moderate,,236.0,24.40537745604964
+2026-04-24,Fatima,Late Night (10 PM+),Wagah Area,Garden Town,Car,383,400.0,500.0,4.0,Cloudy,Moderate,,117.0,30.548302872062667
+2026-04-24,Fatima,Late Night (10 PM+),Gulberg I,Model Town,Bike,148,170.0,182.0,5.0,Cloudy,Moderate,,34.0,22.972972972972975
+2026-04-24,Fatima,Late Night (10 PM+),Pia Road,Eme Society,Bike,215,220.0,264.0,3.0,Cloudy,Moderate,,49.0,22.790697674418606
+2026-04-24,Fatima,Late Night (10 PM+),Mustafa Town,Superior University Gold Campus,Car,559,564.0,615.0,7.0,Cloudy,Moderate,,56.0,10.01788908765653
+2026-04-24,Fatima,Late Night (10 PM+),Mustafa Town,Lake City,Car,932,937.0,1119.0,4.0,Cloudy,Moderate,,187.0,20.064377682403432
+2026-04-24,Fatima,Late Night (10 PM+),University Of Central Punjab,Lake City,Car,622,627.0,747.0,2.0,Cloudy,Moderate,,125.0,20.096463022508036
+2026-04-24,Fatima,Late Night (10 PM+),Barkat Market,Walton Road,Bike,254,264.0,312.0,4.0,Cloudy,Moderate,,58.0,22.83464566929134
+2026-04-24,Fatima,Late Night (10 PM+),Model Town,Askari,Bike,247,262.0,303.0,9.0,Cloudy,Moderate,,56.0,22.672064777327936
+2026-04-24,Fatima,Late Night (10 PM+),Mm Alam Road,Johar Town,Bike,185,250.0,300.0,2.0,Cloudy,Moderate,,115.0,62.16216216216216
+2026-04-24,Fatima,Late Night (10 PM+),Dha,Faisal Town,Bike,158,215.0,231.0,1.0,Cloudy,Moderate,,73.0,46.20253164556962
+2026-04-24,Fatima,Late Night (10 PM+),Superior University Gold Campus,Township,Bike,228,230.0,280.0,2.0,Cloudy,Moderate,,52.0,22.807017543859647
+2026-04-24,Fatima,Late Night (10 PM+),Lahore Cantt,P.I.A Society,Car,892,900.0,982.0,5.0,Cloudy,Moderate,,90.0,10.089686098654708
+2026-04-24,Fatima,Late Night (10 PM+),Walton Road,Wapda Town,Car,665,670.0,798.0,4.0,Cloudy,Moderate,,133.0,20.0
+2026-04-24,Fatima,Late Night (10 PM+),Lake City,Valencia,Car,816,830.0,980.0,4.0,Cloudy,Moderate,,164.0,20.098039215686274
+2026-04-24,Fatima,Late Night (10 PM+),Johar Town,Pcsir,Car,293,310.0,352.0,7.0,Cloudy,Moderate,,59.0,20.13651877133106
+2026-04-24,Fatima,Late Night (10 PM+),Faisal Town,Bahria Town,Car,987,997.0,1086.0,7.0,Cloudy,Moderate,,99.0,10.030395136778116
+2026-04-24,Fatima,Late Night (10 PM+),Township,Raiwind Road,Car,773,778.0,986.0,1.0,Cloudy,Moderate,,213.0,27.55498059508409
+2026-04-24,Fatima,Late Night (10 PM+),P.I.A Society,Lake City,Car,676,691.0,744.0,8.0,Cloudy,Moderate,,68.0,10.059171597633137
+2026-04-24,Fatima,Late Night (10 PM+),Wapda Town,Etihad Town,Car,345,355.0,380.0,5.0,Cloudy,Moderate,,35.0,10.144927536231885
+2026-04-25,Fatima,Late Night (10 PM+),Valencia,Lda City,Car,364,370.0,446.0,3.0,Cloudy,Moderate,,82.0,22.52747252747253
+2026-04-25,Fatima,Late Night (10 PM+),Lake City,Dream Gardens,Rickshaw,376,381.0,470.0,2.0,Cloudy,Moderate,,94.0,25.0
+2026-04-25,Fatima,Late Night (10 PM+),Bahria Town,Thokar Niaz Baig,Rickshaw,640,650.0,800.0,3.0,Cloudy,Moderate,,160.0,25.0
+2026-04-25,Fatima,Late Night (10 PM+),Raiwind Road,Allama Iqbal Town,Rickshaw,734,744.0,918.0,2.0,Cloudy,Moderate,,184.0,25.068119891008173
+2026-04-25,Fatima,Late Night (10 PM+),Lake City,Sabzazar,Rickshaw,632,645.0,790.0,4.0,Cloudy,Moderate,,158.0,25.0
+2026-04-25,Fatima,Late Night (10 PM+),Etihad Town,Samanabad,Rickshaw,582,592.0,728.0,3.0,Cloudy,Moderate,,146.0,25.085910652920962
+2026-04-25,Fatima,Late Night (10 PM+),Lda City,Mansoora,Rickshaw,929,985.0,1185.0,2.0,Cloudy,Moderate,,256.0,27.556512378902042
+2026-04-25,Fatima,Late Night (10 PM+),Dream Gardens,Wahadat Road,Rickshaw,963,963.0,963.0,5.0,Cloudy,Moderate,,0.0,0.0
+2026-04-25,Fatima,Late Night (10 PM+),Thokar Niaz Baig,Anarkali,Car,651,681.0,681.0,3.0,Cloudy,Moderate,,30.0,4.6082949308755765
+2026-04-25,Fatima,Late Night (10 PM+),Allama Iqbal Town,Anarkali,Car,507,510.0,558.0,6.0,Cloudy,Moderate,,51.0,10.059171597633137
+2026-04-25,Fatima,Late Night (10 PM+),Sabzazar,Anarkali,Car,473,465.0,573.0,3.0,Cloudy,Moderate,,100.0,21.141649048625794
+2026-04-25,Fatima,Late Night (10 PM+),Samanabad,Anarkali,Car,397,402.0,507.0,4.0,Cloudy,Moderate,,110.0,27.70780856423174
+2026-04-25,Fatima,Late Night (10 PM+),Mansoora,Anarkali,Bike,206,230.0,253.0,3.0,Cloudy,Moderate,,47.0,22.815533980582526
+2026-04-25,Fatima,Late Night (10 PM+),Wahadat Road,Anarkali,Bike,153,153.0,153.0,2.0,Cloudy,Moderate,,0.0,0.0
+2026-04-25,Fatima,Late Night (10 PM+),Lake City,Anarkali,Bike,412,432.0,505.0,2.0,Cloudy,Moderate,,93.0,22.572815533980584
+2026-04-25,Fatima,Late Night (10 PM+),Lake City,Mughalpura,Bike,422,432.0,517.0,1.0,Cloudy,Moderate,,95.0,22.511848341232227
+2026-04-25,Fatima,Late Night (10 PM+),Mozang,Mughalpura,Bike,126,156.0,180.0,1.0,Cloudy,Moderate,,54.0,42.857142857142854
+2026-04-25,Fatima,Late Night (10 PM+),Lower Mall,Mughalpura,Bike,131,148.0,180.0,2.0,Cloudy,Moderate,,49.0,37.404580152671755
+2026-04-25,Fatima,Late Night (10 PM+),Shahdara,Mughalpura,Bike,219,229.0,328.0,6.0,Clear/Sunny,Moderate,,109.0,49.77168949771689
+2026-04-25,Fatima,Late Night (10 PM+),Islampura,Mughalpura,Bike,150,165.0,184.0,2.0,Clear/Sunny,Moderate,,34.0,22.666666666666664
+2026-04-25,Fatima,Late Night (10 PM+),Chauburji,Jallo,Bike,307,330.0,450.0,1.0,Clear/Sunny,Moderate,,143.0,46.579804560260584
+2026-04-25,Fatima,Late Night (10 PM+),Mughalpura,Wagah Area,Bike,238,243.0,350.0,1.0,Cloudy,Moderate,,112.0,47.05882352941176
+2026-04-25,Fatima,Late Night (10 PM+),Harbanspura,Gulberg I,Car,643,680.0,772.0,5.0,Cloudy,Moderate,,129.0,20.06220839813375
+2026-04-25,Fatima,Late Night (10 PM+),Kot Lakhpat,Gulberg I,Car,579,579.0,579.0,4.0,Clear/Sunny,Moderate,,0.0,0.0
+2026-04-25,Fatima,Late Night (10 PM+),Ghazi Road,Gulberg I,Car,572,572.0,582.0,4.0,Clear/Sunny,Moderate,,10.0,1.7482517482517483
+2026-04-25,Fatima,Late Night (10 PM+),Tajpura,Gulberg I,Car,545,555.0,600.0,5.0,Cloudy,Moderate,,55.0,10.091743119266056
+2026-04-25,Fatima,Late Night (10 PM+),Jallo,Gulberg I,Car,812,822.0,975.0,2.0,Clear/Sunny,Moderate,,163.0,20.073891625615765
+2026-04-25,Fatima,Late Night (10 PM+),Liberty Market,Gulberg I,Car,323,345.0,412.0,1.0,Cloudy,Moderate,,89.0,27.55417956656347
+2026-04-25,Fatima,Late Night (10 PM+),Liberty Market,Mm Alam Road,Car,254,295.0,350.0,1.0,Cloudy,Moderate,,96.0,37.79527559055118
+2026-04-25,Fatima,Late Night (10 PM+),Liberty Market,Dha,Rickshaw,442,485.0,600.0,3.0,Cloudy,Moderate,,158.0,35.74660633484163
+2026-04-25,Fatima,Late Night (10 PM+),Liberty Market,Cavalry Ground,Rickshaw,234,293.0,343.0,2.0,Clear/Sunny,Moderate,,109.0,46.58119658119658
+2026-04-25,Fatima,Late Night (10 PM+),Liberty Market,Lahore Cantt,Rickshaw,442,452.0,600.0,1.0,Cloudy,Moderate,,158.0,35.74660633484163
+2026-04-25,Fatima,Late Night (10 PM+),Liberty Market,Walton Road,Rickshaw,348,353.0,500.0,1.0,Cloudy,Moderate,,152.0,43.67816091954023
+2026-04-25,Fatima,Late Night (10 PM+),Liberty Market,Askari,Rickshaw,268,278.0,335.0,3.0,Cloudy,Moderate,,67.0,25.0
+2026-04-25,Fatima,Late Night (10 PM+),Liberty Market,Johar Town,Rickshaw,429,449.0,600.0,2.0,Clear/Sunny,Moderate,,171.0,39.86013986013986
+2026-04-25,Fatima,Late Night (10 PM+),Mm Alam Road,Faisal Town,Rickshaw,361,366.0,540.0,1.0,Clear/Sunny,Moderate,,179.0,49.584487534626035
+2026-04-25,Fatima,Late Night (10 PM+),Dha,Lake City,Rickshaw,1356,1356.0,1492.0,9.0,Clear/Sunny,Moderate,,136.0,10.029498525073747
+2026-04-25,Fatima,Late Night (10 PM+),Lahore Cantt,P.I.A Society,Car,928,950.0,1114.0,7.0,Clear/Sunny,Moderate,,186.0,20.04310344827586
+2026-04-25,Fatima,Late Night (10 PM+),Lahore Cantt,Wapda Town,Car,1000,1020.0,1080.0,6.0,Cloudy,Low,,80.0,8.0
+2026-04-24,Saira,Night (6–10 PM),Walton Road,Valencia,Rickshaw,618,550.0,700.0,1.0,Clear/Sunny,Low,,82.0,13.268608414239482
+2026-04-24,Saira,Night (6–10 PM),Askari,Pcsir,Car,928,928.0,1021.0,5.0,Clear/Sunny,Low,,93.0,10.02155172413793
+2026-04-24,Saira,Night (6–10 PM),Johar Town,Bahria Town,Car,923,923.0,923.0,7.0,Clear/Sunny,Low,,0.0,0.0
+2026-04-24,Saira,Night (6–10 PM),Faisal Town,Raiwind Road,Bike,269,269.0,330.0,7.0,Clear/Sunny,Moderate,,61.0,22.676579925650557
+2026-04-24,Eman,Night (6–10 PM),Township,Lake City,Bike,289,289.0,289.0,3.0,Clear/Sunny,Low,,0.0,0.0
+2026-04-24,Eman,Night (6–10 PM),P.I.A Society,Etihad Town,Rickshaw,341,300.0,400.0,3.0,Clear/Sunny,Moderate,,59.0,17.302052785923756
+2026-04-24,Eman,Night (6–10 PM),Wapda Town,Lda City,Rickshaw,939,900.0,1014.0,2.0,Clear/Sunny,Moderate,,75.0,7.987220447284344
+2026-04-24,Eman,Night (6–10 PM),Valencia,Dream Gardens,Car,399,399.0,439.0,4.0,Clear/Sunny,Moderate,,40.0,10.025062656641603
+2026-04-24,Eman,Night (6–10 PM),Pcsir,Thokar Niaz Baig,Car,457,457.0,457.0,2.0,Clear/Sunny,Moderate,,0.0,0.0
+2026-04-24,Nalain,Night (6–10 PM),Bahria Town,Allama Iqbal Town,Bike,411,411.0,411.0,4.0,Clear/Sunny,Low,,0.0,0.0
+2026-04-24,Nalain,Night (6–10 PM),Raiwind Road,Sabzazar,Bike,328,328.0,328.0,3.0,Clear/Sunny,Moderate,,0.0,0.0
+2026-04-24,Nalain,Night (6–10 PM),Lake City,Samanabad,Rickshaw,950,950.0,1188.0,1.0,Clear/Sunny,Low,,238.0,25.05263157894737
+2026-04-24,Nalain,Night (6–10 PM),Etihad Town,Mansoora,Rickshaw,355,355.0,391.0,5.0,Clear/Sunny,Low,,36.0,10.140845070422536
+2026-04-24,Nalain,Night (6–10 PM),Lda City,Wahadat Road,Car,910,850.0,1001.0,1.0,Clear/Sunny,Moderate,,91.0,10.0
+2026-04-24,Nalain,Night (6–10 PM),Dream Gardens,Anarkali,Car,1273,1000.0,1528.0,2.0,Clear/Sunny,Low,,255.0,20.031421838177533
+2026-04-24,Ahmed,Night (6–10 PM),Thokar Niaz Baig,Data Darbar Area,Bike,263,263.0,290.0,8.0,Clear/Sunny,Low,,27.0,10.26615969581749
+2026-04-24,Ahmed,Night (6–10 PM),Allama Iqbal Town,Mozang,Bike,161,161.0,161.0,1.0,Clear/Sunny,Moderate,,0.0,0.0
+2026-04-24,Ahmed,Night (6–10 PM),Sabzazar,Lower Mall,Rickshaw,486,486.0,500.0,3.0,Clear/Sunny,Moderate,,14.0,2.880658436213992
+2026-04-24,Ahmed,Night (6–10 PM),Samanabad,Shahdara,Rickshaw,1789,1500.0,1789.0,1.0,Clear/Sunny,Low,,0.0,0.0
+2026-04-24,Ahmed,Night (6–10 PM),Mansoora,Islampura,Car,581,581.0,741.0,3.0,Clear/Sunny,Moderate,,160.0,27.538726333907054
+2026-04-24,Ahmed,Night (6–10 PM),Wahadat Road,Chauburji,Car,364,364.0,400.0,1.0,Clear/Sunny,Low,,36.0,9.89010989010989
+2026-04-24,Fatima,Night (6–10 PM),Anarkali,Mughalpura,Bike,235,235.0,288.0,1.0,Clear/Sunny,Moderate,,53.0,22.5531914893617
+2026-04-24,Fatima,Night (6–10 PM),Data Darbar Area,Harbanspura,Bike,350,350.0,385.0,7.0,Clear/Sunny,Low,,35.0,10.0
+2026-04-24,Fatima,Night (6–10 PM),Mozang,Kot Lakhpat,Rickshaw,645,645.0,807.0,4.0,Clear/Sunny,Low,,162.0,25.116279069767444
+2026-04-24,Fatima,Night (6–10 PM),Lower Mall,Ghazi Road,Rickshaw,587,500.0,734.0,1.0,Clear/Sunny,Low,,147.0,25.04258943781942
+2026-04-24,Fatima,Night (6–10 PM),Shahdara,Tajpura,Car,885,885.0,1129.0,4.0,Clear/Sunny,Low,,244.0,27.570621468926554
+2026-04-24,Fatima,Night (6–10 PM),Islampura,Jallo,Car,1451,1451.0,1579.0,6.0,Clear/Sunny,Low,,128.0,8.821502412129565
+2026-04-24,Fatima,Night (6–10 PM),Chauburji,Wagah Area,Bike,282,282.0,346.0,2.0,Clear/Sunny,Moderate,,64.0,22.69503546099291
+2026-04-24,Rameesha,Night (6–10 PM),Mughalpura,Gulberg I,Bike,156,150.0,200.0,1.0,Clear/Sunny,Low,,44.0,28.205128205128204
+2026-04-24,Rameesha,Night (6–10 PM),Harbanspura,Gulberg Ii,Rickshaw,585,585.0,588.0,4.0,Clear/Sunny,Moderate,,3.0,0.5128205128205128
+2026-04-24,Rameesha,Night (6–10 PM),Kot Lakhpat,Gulberg Iii,Rickshaw,367,367.0,367.0,3.0,Clear/Sunny,Low,,0.0,0.0
+2026-04-24,Rameesha,Night (6–10 PM),Ghazi Road,Liberty Market,Car,570,513.0,667.0,2.0,Clear/Sunny,Low,,97.0,17.017543859649123
+2026-04-24,Rameesha,Night (6–10 PM),Tajpura,Garden Town,Car,666,666.0,800.0,3.0,Clear/Sunny,Moderate,,134.0,20.12012012012012
+2026-04-24,Rameesha,Night (6–10 PM),Jallo,Barkat Market,Bike,324,324.0,357.0,3.0,Clear/Sunny,Low,,33.0,10.185185185185185
+2026-04-24,Rameesha,Night (6–10 PM),Wagah Area,Model Town,Bike,431,431.0,587.0,1.0,Clear/Sunny,Moderate,,156.0,36.19489559164733
+2026-04-24,Tahir,Night (6–10 PM),Gulberg I,Dha,Rickshaw,480,480.0,600.0,1.0,Clear/Sunny,Moderate,,120.0,25.0
+2026-04-24,Tahir,Night (6–10 PM),Gulberg Ii,Cavalry Ground,Rickshaw,282,260.0,353.0,1.0,Clear/Sunny,Moderate,,71.0,25.177304964539005
+2026-04-24,Tahir,Night (6–10 PM),Gulberg Iii,Lahore Cantt,Car,605,605.0,772.0,2.0,Clear/Sunny,Moderate,,167.0,27.603305785123965
+2026-04-24,Tahir,Night (6–10 PM),Liberty Market,Walton Road,Car,476,450.0,620.0,1.0,Clear/Sunny,Moderate,,144.0,30.252100840336134
+2026-04-24,Tahir,Night (6–10 PM),Garden Town,Askari,Bike,254,234.0,351.0,1.0,Clear/Sunny,Low,,97.0,38.188976377952756
+2026-04-24,Tahir,Night (6–10 PM),Barkat Market,Johar Town,Bike,150,130.0,184.0,1.0,Clear/Sunny,Low,,34.0,22.666666666666664
+2026-04-24,Tahir,Night (6–10 PM),Model Town,Faisal Town,Rickshaw,178,160.0,240.0,1.0,Clear/Sunny,Low,,62.0,34.831460674157306
+2026-04-24,Tahir,Night (6–10 PM),Mm Alam Road,Township,Rickshaw,554,438.0,570.0,1.0,Clear/Sunny,Low,,16.0,2.888086642599278
+2026-04-24,Saira,Night (6–10 PM),Dha,P.I.A Society,Car,839,755.0,906.0,4.0,Clear/Sunny,Low,,67.0,7.985697258641239
+2026-04-24,Saira,Night (6–10 PM),Cavalry Ground,Wapda Town,Car,814,764.0,917.0,3.0,Clear/Sunny,Moderate,,103.0,12.653562653562652
+2026-04-24,Saira,Night (6–10 PM),Lahore Cantt,Valencia,Bike,368,331.0,331.0,2.0,Clear/Sunny,Moderate,,-37.0,-10.054347826086957
+2026-04-24,Saira,Night (6–10 PM),Walton Road,Pcsir,Bike,225,203.0,224.0,7.0,Clear/Sunny,Moderate,,-1.0,-0.4444444444444444
+2026-04-24,Saira,Night (6–10 PM),Askari,Bahria Town,Rickshaw,1146,905.0,1200.0,1.0,Clear/Sunny,Moderate,,54.0,4.712041884816754
+2026-04-24,Saira,Night (6–10 PM),Johar Town,Raiwind Road,Rickshaw,521,461.0,600.0,1.0,Clear/Sunny,Moderate,,79.0,15.163147792706333
+2026-04-24,Saira,Night (6–10 PM),Faisal Town,Lake City,Car,910,819.0,819.0,7.0,Clear/Sunny,Moderate,,-91.0,-10.0
+2026-04-24,Eman,Night (6–10 PM),Township,Etihad Town,Car,603,543.0,543.0,4.0,Clear/Sunny,Low,,-60.0,-9.950248756218906
+2026-04-24,Eman,Night (6–10 PM),P.I.A Society,Lda City,Bike,320,288.0,375.0,1.0,Clear/Sunny,Moderate,,55.0,17.1875
+2026-04-24,Eman,Night (6–10 PM),Wapda Town,Dream Gardens,Bike,183,165.0,198.0,5.0,Clear/Sunny,Moderate,,15.0,8.19672131147541
+2026-04-24,Eman,Night (6–10 PM),Valencia,Thokar Niaz Baig,Rickshaw,509,458.0,650.0,1.0,Clear/Sunny,Low,,141.0,27.70137524557957
+2026-04-24,Eman,Night (6–10 PM),Pcsir,Allama Iqbal Town,Rickshaw,239,215.0,215.0,1.0,Clear/Sunny,Moderate,,-24.0,-10.0418410041841
+2026-04-24,Nalain,Night (6–10 PM),Bahria Town,Sabzazar,Car,1131,1081.0,1081.0,4.0,Clear/Sunny,Low,,-50.0,-4.420866489832007
+2026-04-24,Nalain,Night (6–10 PM),Raiwind Road,Samanabad,Car,1201,1081.0,1298.0,5.0,Clear/Sunny,Moderate,,97.0,8.076602830974188
+2026-04-24,Nalain,Night (6–10 PM),Lake City,Mansoora,Bike,340,306.0,306.0,3.0,Clear/Sunny,Moderate,,-34.0,-10.0
+2026-04-24,Nalain,Night (6–10 PM),Etihad Town,Wahadat Road,Bike,240,216.0,216.0,4.0,Clear/Sunny,Moderate,,-24.0,-10.0
+2026-04-24,Nalain,Night (6–10 PM),Lda City,Anarkali,Rickshaw,868,780.0,936.0,1.0,Clear/Sunny,Low,,68.0,7.834101382488479
+2026-04-24,Nalain,Afternoon (11 AM–2 PM),Dream Gardens,Data Darbar Area,Rickshaw,433,390.0,507.0,4.0,Cloudy,Low,,74.0,17.090069284064665
+2026-04-24,Ahmed,Night (6–10 PM),Thokar Niaz Baig,Mozang,Car,667,600.0,660.0,3.0,Cloudy,Moderate,,-7.0,-1.0494752623688157
+2026-04-24,Ahmed,Evening (2–6 PM),Allama Iqbal Town,Lower Mall,Car,478,430.0,500.0,4.0,Clear/Sunny,Moderate,,22.0,4.602510460251046
+2026-04-24,Ahmed,Evening (2–6 PM),Sabzazar,Shahdara,Bike,600,540.0,540.0,7.0,Cloudy,Moderate,,-60.0,-10.0
+2026-04-24,Ahmed,Evening (2–6 PM),Samanabad,Islampura,Bike,128,109.0,150.0,2.0,Cloudy,Moderate,,22.0,17.1875
+2026-04-24,Ahmed,Evening (2–6 PM),Mansoora,Chauburji,Rickshaw,343,309.0,402.0,1.0,Clear/Sunny,Low,,59.0,17.20116618075802
+2026-04-24,Ahmed,Evening (2–6 PM),Wahadat Road,Mughalpura,Rickshaw,397,357.0,393.0,2.0,Cloudy,Low,,-4.0,-1.0075566750629723
+2026-04-24,Fatima,Evening (2–6 PM),Anarkali,Harbanspura,Car,648,583.0,583.0,6.0,Clear/Sunny,Moderate,,-65.0,-10.030864197530864
+2026-04-24,Fatima,Evening (2–6 PM),Data Darbar Area,Kot Lakhpat,Car,946,851.0,1022.0,4.0,Clear/Sunny,Moderate,,76.0,8.0338266384778
+2026-04-24,Fatima,Evening (2–6 PM),Mozang,Ghazi Road,Bike,254,216.0,320.0,2.0,Cloudy,Moderate,,66.0,25.984251968503933
+2026-04-24,Fatima,Evening (2–6 PM),Lower Mall,Tajpura,Bike,243,207.0,343.0,1.0,Cloudy,Moderate,,100.0,41.1522633744856
+2026-04-24,Fatima,Evening (2–6 PM),Shahdara,Jallo,Rickshaw,1057,835.0,1252.0,1.0,Cloudy,Moderate,,195.0,18.448438978240304
+2026-04-24,Fatima,Evening (2–6 PM),Islampura,Wagah Area,Rickshaw,1131,893.0,1200.0,1.0,Clear/Sunny,Low,,69.0,6.10079575596817
+2026-04-24,Fatima,Evening (2–6 PM),Chauburji,Gulberg I,Car,476,428.0,500.0,4.0,Clear/Sunny,Moderate,,24.0,5.042016806722689
+2026-04-24,Rameesha,Evening (2–6 PM),Mughalpura,Gulberg Ii,Car,461,415.0,498.0,4.0,Cloudy,Low,,37.0,8.026030368763557
+2026-04-24,Rameesha,Evening (2–6 PM),Harbanspura,Gulberg Iii,Bike,260,221.0,221.0,2.0,Cloudy,Low,,-39.0,-15.0
+2026-04-24,Rameesha,Evening (2–6 PM),Kot Lakhpat,Liberty Market,Bike,176,158.0,230.0,3.0,Cloudy,Low,,54.0,30.681818181818183
+2026-04-24,Rameesha,Evening (2–6 PM),Ghazi Road,Garden Town,Rickshaw,346,311.0,405.0,4.0,Cloudy,Low,,59.0,17.052023121387283
+2026-04-24,Rameesha,Evening (2–6 PM),Tajpura,Barkat Market,Rickshaw,582,460.0,506.0,4.0,Cloudy,Moderate,,-76.0,-13.058419243986256
+2026-04-24,Rameesha,Evening (2–6 PM),Jallo,Model Town,Car,1037,918.0,1010.0,3.0,Cloudy,Low,,-27.0,-2.6036644165863065
+2026-04-24,Rameesha,Evening (2–6 PM),Wagah Area,Mm Alam Road,Car,1101,991.0,1386.0,1.0,Clear/Sunny,Moderate,,285.0,25.885558583106267
+2026-04-24,Tahir,Evening (2–6 PM),Gulberg I,Cavalry Ground,Bike,123,111.0,145.0,4.0,Clear/Sunny,Moderate,,22.0,17.88617886178862
+2026-04-24,Tahir,Evening (2–6 PM),Gulberg Ii,Lahore Cantt,Bike,202,182.0,237.0,6.0,Clear/Sunny,Low,,35.0,17.326732673267326
+2026-04-24,Tahir,Evening (2–6 PM),Gulberg Iii,Walton Road,Rickshaw,305,275.0,303.0,5.0,Clear/Sunny,Moderate,,-2.0,-0.6557377049180327
+2026-04-24,Tahir,Evening (2–6 PM),Liberty Market,Askari,Rickshaw,220,198.0,198.0,1.0,Clear/Sunny,Moderate,,-22.0,-10.0
+2026-04-24,Tahir,Night (6–10 PM),Barkat Market,Faisal Town,Car,319,287.0,345.0,4.0,Clear/Sunny,Low,,26.0,8.150470219435736
+2026-04-24,Tahir,Night (6–10 PM),Model Town,Township,Bike,118,106.0,106.0,1.0,Clear/Sunny,Moderate,,-12.0,-10.16949152542373
+2026-04-24,Tahir,Night (6–10 PM),Mm Alam Road,P.I.A Society,Bike,234,211.0,211.0,4.0,Clear/Sunny,Moderate,,-23.0,-9.82905982905983
+2026-04-24,Saira,Night (6–10 PM),Dha,Wapda Town,Rickshaw,764,668.0,1000.0,1.0,Clear/Sunny,Moderate,,236.0,30.89005235602094
+2026-04-24,Saira,Night (6–10 PM),Cavalry Ground,Valencia,Rickshaw,763,627.0,627.0,1.0,Clear/Sunny,Low,,-136.0,-17.82437745740498
+2026-04-24,Saira,Night (6–10 PM),Lahore Cantt,Pcsir,Car,931,838.0,1006.0,1.0,Clear/Sunny,Moderate,,75.0,8.055853920515576
+2026-04-24,Saira,Night (6–10 PM),Walton Road,Bahria Town,Car,1236,1112.0,1112.0,2.0,Clear/Sunny,Low,,-124.0,-10.032362459546926
+2026-04-24,Saira,Night (6–10 PM),Askari,Raiwind Road,Bike,430,422.0,500.0,1.0,Clear/Sunny,Moderate,,70.0,16.27906976744186
+2026-04-24,Eman,Night (6–10 PM),Johar Town,Lake City,Bike,266,266.0,293.0,7.0,Clear/Sunny,Moderate,,27.0,10.150375939849624
+2026-04-24,Eman,Night (6–10 PM),Faisal Town,Etihad Town,Rickshaw,498,498.0,498.0,3.0,Clear/Sunny,Low,,0.0,0.0
+2026-04-24,Eman,Night (6–10 PM),Township,Lda City,Rickshaw,541,487.0,490.0,3.0,Clear/Sunny,Low,,-51.0,-9.426987060998151
+2026-04-24,Eman,Night (6–10 PM),P.I.A Society,Dream Gardens,Car,650,558.0,585.0,7.0,Clear/Sunny,Moderate,,-65.0,-10.0
+2026-04-24,Eman,Night (6–10 PM),Wapda Town,Thokar Niaz Baig,Car,554,491.0,491.0,9.0,Clear/Sunny,Low,,-63.0,-11.371841155234657
+2026-04-24,Eman,Night (6–10 PM),Valencia,Allama Iqbal Town,Bike,741,671.0,671.0,7.0,Clear/Sunny,Low,,-70.0,-9.446693657219974
+2026-04-24,Eman,Night (6–10 PM),Pcsir,Sabzazar,Bike,143,129.0,168.0,2.0,Clear/Sunny,Moderate,,25.0,17.482517482517483
+2026-04-24,Nalain,Night (6–10 PM),Bahria Town,Samanabad,Rickshaw,431,388.0,388.0,6.0,Clear/Sunny,Moderate,,-43.0,-9.976798143851507
+2026-04-24,Nalain,Night (6–10 PM),Raiwind Road,Mansoora,Rickshaw,543,485.0,582.0,1.0,Clear/Sunny,Moderate,,39.0,7.18232044198895
+2026-04-24,Nalain,Night (6–10 PM),Lake City,Wahadat Road,Car,1027,924.0,1017.0,1.0,Clear/Sunny,Moderate,,-10.0,-0.9737098344693282
+2026-04-24,Nalain,Night (6–10 PM),Etihad Town,Anarkali,Car,1010,909.0,909.0,10.0,Clear/Sunny,Moderate,,-101.0,-10.0
+2026-04-24,Nalain,Night (6–10 PM),Lda City,Data Darbar Area,Bike,403,363.0,363.0,1.0,Clear/Sunny,Low,,-40.0,-9.925558312655088
+2026-04-26,Nalain,Evening (2–6 PM),Dream Gardens,Mozang,Bike,398,358.0,430.0,7.0,Cloudy,Low,,32.0,8.040201005025125
+2026-04-26,Ahmed,Evening (2–6 PM),Thokar Niaz Baig,Lower Mall,Rickshaw,585,462.0,800.0,2.0,Cloudy,Moderate,,215.0,36.75213675213676
+2026-04-26,Ahmed,Evening (2–6 PM),Allama Iqbal Town,Shahdara,Rickshaw,670,590.0,1000.0,1.0,Clear/Sunny,Low,,330.0,49.25373134328358
+2026-04-26,Ahmed,Evening (2–6 PM),Sabzazar,Islampura,Car,522,464.0,680.0,1.0,Cloudy,Moderate,,158.0,30.268199233716476
+2026-04-26,Ahmed,Night (6–10 PM),Samanabad,Chauburji,Car,280,358.0,500.0,1.0,Clear/Sunny,Moderate,,220.0,78.57142857142857
+2026-04-26,Ahmed,Night (6–10 PM),Mansoora,Mughalpura,Bike,287,258.0,336.0,1.0,Cloudy,Low,,49.0,17.073170731707318
+2026-04-26,Ahmed,Evening (2–6 PM),Wahadat Road,Harbanspura,Bike,367,450.0,500.0,7.0,Clear/Sunny,Low,,133.0,36.23978201634878
+2026-04-26,Fatima,Evening (2–6 PM),Anarkali,Kot Lakhpat,Rickshaw,267,243.0,328.0,2.0,Cloudy,Moderate,,61.0,22.846441947565545
+2026-04-26,Fatima,Late Night (10 PM+),Data Darbar Area,Ghazi Road,Rickshaw,297,277.0,399.0,1.0,Clear/Sunny,Moderate,,102.0,34.34343434343434
+2026-04-26,Fatima,Late Night (10 PM+),Mozang,Tajpura,Car,217,202.0,295.0,3.0,Cloudy,Moderate,,78.0,35.944700460829495
+2026-04-26,Fatima,Early Morning (5–8 AM),Lower Mall,Jallo,Car,1099,1004.0,1205.0,1.0,Clear/Sunny,Low,,106.0,9.64513193812557
+2026-04-26,Fatima,Afternoon (11 AM–2 PM),Shahdara,Wagah Area,Bike,485,440.0,572.0,2.0,Clear/Sunny,Low,,87.0,17.938144329896907
+2026-04-26,Fatima,Afternoon (11 AM–2 PM),Islampura,Gulberg I,Bike,184,166.0,216.0,2.0,Clear/Sunny,Low,,32.0,17.391304347826086
+2026-04-26,Fatima,Night (6–10 PM),Chauburji,Gulberg Ii,Rickshaw,345,320.0,400.0,1.0,Cloudy,Low,,55.0,15.942028985507244
+2026-04-26,Rameesha,Night (6–10 PM),Mughalpura,Gulberg Iii,Rickshaw,393,358.0,500.0,1.0,Cloudy,Low,,107.0,27.2264631043257
+2026-04-26,Rameesha,Late Night (10 PM+),Harbanspura,Liberty Market,Car,806,760.0,838.0,3.0,Clear/Sunny,Low,,32.0,3.970223325062035
+2026-04-26,Rameesha,Late Night (10 PM+),Kot Lakhpat,Garden Town,Car,487,447.0,537.0,3.0,Cloudy,Moderate,,50.0,10.266940451745379
+2026-04-26,Rameesha,Evening (2–6 PM),Ghazi Road,Barkat Market,Bike,181,163.0,163.0,2.0,Cloudy,Low,,-18.0,-9.94475138121547
+2026-04-26,Rameesha,Evening (2–6 PM),Tajpura,Model Town,Bike,248,228.0,297.0,2.0,Clear/Sunny,Moderate,,49.0,19.758064516129032
+2026-04-26,Rameesha,Night (6–10 PM),Jallo,Mm Alam Road,Rickshaw,700,775.0,1004.0,1.0,Cloudy,Moderate,,304.0,43.42857142857143
+2026-04-26,Rameesha,Night (6–10 PM),Wagah Area,Dha,Rickshaw,837,848.0,1200.0,1.0,Cloudy,Moderate,,363.0,43.36917562724014
+2026-04-26,Tahir,Night (6–10 PM),Gulberg I,Lahore Cantt,Car,640,610.0,800.0,1.0,Clear/Sunny,Low,,160.0,25.0
+2026-04-26,Tahir,Night (6–10 PM),Gulberg Ii,Walton Road,Car,473,440.0,600.0,1.0,Clear/Sunny,Moderate,,127.0,26.849894291754755
+2026-04-26,Tahir,Night (6–10 PM),Gulberg Iii,Askari,Bike,86,77.0,101.0,2.0,Clear/Sunny,Low,,15.0,17.441860465116278
+2026-04-26,Tahir,Night (6–10 PM),Liberty Market,Johar Town,Bike,300,215.0,360.0,1.0,Clear/Sunny,Low,,60.0,20.0
+2026-04-26,Tahir,Night (6–10 PM),Garden Town,Faisal Town,Rickshaw,228,258.0,340.0,1.0,Clear/Sunny,Moderate,,112.0,49.122807017543856
+2026-04-26,Tahir,Night (6–10 PM),Barkat Market,Township,Rickshaw,404,379.0,493.0,1.0,Clear/Sunny,Low,,89.0,22.02970297029703
+2026-04-26,Tahir,Night (6–10 PM),Model Town,P.I.A Society,Car,500,470.0,600.0,1.0,Cloudy,Moderate,,100.0,20.0
+2026-04-26,Tahir,Night (6–10 PM),Mm Alam Road,Wapda Town,Car,784,769.0,923.0,3.0,Cloudy,Low,,139.0,17.72959183673469
+2026-04-26,Saira,Night (6–10 PM),Dha,Valencia,Bike,459,430.0,521.0,2.0,Cloudy,Low,,62.0,13.507625272331156
+2026-04-26,Saira,Night (6–10 PM),Cavalry Ground,Pcsir,Bike,220,198.0,290.0,1.0,Clear/Sunny,Moderate,,70.0,31.818181818181817
+2026-04-26,Saira,Night (6–10 PM),Lahore Cantt,Bahria Town,Rickshaw,1236,1146.0,1600.0,1.0,Cloudy,Moderate,,364.0,29.449838187702266
+2026-04-26,Saira,Night (6–10 PM),Walton Road,Raiwind Road,Rickshaw,705,705.0,846.0,1.0,Cloudy,Low,,141.0,20.0
+2026-04-26,Saira,Night (6–10 PM),Askari,Lake City,Car,1130,1085.0,1302.0,1.0,Clear/Sunny,Moderate,,172.0,15.221238938053098
+2026-04-26,Eman,Night (6–10 PM),Johar Town,Etihad Town,Car,445,420.0,620.0,1.0,Clear/Sunny,Low,,175.0,39.325842696629216
+2026-04-26,Eman,Night (6–10 PM),Faisal Town,Lda City,Bike,328,298.0,388.0,1.0,Cloudy,Low,,60.0,18.29268292682927
+2026-04-26,Eman,Night (6–10 PM),Township,Dream Gardens,Bike,266,240.0,266.0,2.0,Clear/Sunny,Low,,0.0,0.0
+2026-04-26,Eman,Night (6–10 PM),P.I.A Society,Thokar Niaz Baig,Rickshaw,369,332.0,432.0,2.0,Cloudy,Moderate,,63.0,17.073170731707318
+2026-04-26,Eman,Night (6–10 PM),Wapda Town,Allama Iqbal Town,Rickshaw,453,442.0,550.0,2.0,Clear/Sunny,Low,,97.0,21.41280353200883
+2026-04-26,Eman,Night (6–10 PM),Valencia,Sabzazar,Car,841,780.0,860.0,12.0,Clear/Sunny,Moderate,,19.0,2.2592152199762188
+2026-04-26,Eman,Night (6–10 PM),Pcsir,Samanabad,Car,585,595.0,714.0,1.0,Cloudy,Low,,129.0,22.05128205128205
+2026-04-26,Nalain,Night (6–10 PM),Bahria Town,Mansoora,Bike,314,289.0,347.0,5.0,Clear/Sunny,Low,,33.0,10.509554140127388
+2026-04-26,Nalain,Night (6–10 PM),Raiwind Road,Wahadat Road,Bike,294,269.0,350.0,4.0,Cloudy,Moderate,,56.0,19.047619047619047
+2026-04-26,Nalain,Night (6–10 PM),Lake City,Anarkali,Rickshaw,900,875.0,1300.0,1.0,Cloudy,Moderate,,400.0,44.44444444444444
+2026-04-26,Nalain,Night (6–10 PM),Etihad Town,Data Darbar Area,Rickshaw,270,245.0,350.0,1.0,Cloudy,Moderate,,80.0,29.629629629629626
+2026-04-26,Nalain,Late Night (10 PM+),Lda City,Mozang,Car,1116,1190.0,1419.0,1.0,Clear/Sunny,Moderate,,303.0,27.1505376344086
+2026-04-26,Nalain,Late Night (10 PM+),Dream Gardens,Lower Mall,Car,1252,1252.0,1252.0,4.0,Clear/Sunny,Moderate,,0.0,0.0
+2026-04-26,Ahmed,Late Night (10 PM+),Thokar Niaz Baig,Shahdara,Bike,356,380.0,455.0,2.0,Clear/Sunny,Moderate,,99.0,27.808988764044944
+2026-04-26,Ahmed,Late Night (10 PM+),Allama Iqbal Town,Islampura,Bike,159,145.0,160.0,2.0,Clear/Sunny,Low,,1.0,0.628930817610063
+2026-04-26,Ahmed,Late Night (10 PM+),Sabzazar,Chauburji,Rickshaw,304,284.0,370.0,1.0,Clear/Sunny,Moderate,,66.0,21.710526315789476
+2026-04-26,Ahmed,Late Night (10 PM+),Samanabad,Mughalpura,Rickshaw,594,594.0,800.0,1.0,Cloudy,Moderate,,206.0,34.68013468013468
+2026-04-26,Ahmed,Late Night (10 PM+),Mansoora,Harbanspura,Car,946,900.0,1170.0,1.0,Clear/Sunny,Low,,224.0,23.678646934460886
+2026-04-26,Ahmed,Late Night (10 PM+),Wahadat Road,Kot Lakhpat,Car,553,500.0,604.0,1.0,Cloudy,Low,,51.0,9.22242314647378
+2026-04-26,Fatima,Late Night (10 PM+),Anarkali,Ghazi Road,Bike,234,234.0,300.0,1.0,Cloudy,Moderate,,66.0,28.205128205128204
+2026-04-26,Fatima,Late Night (10 PM+),Data Darbar Area,Tajpura,Bike,424,399.0,560.0,2.0,Clear/Sunny,Moderate,,136.0,32.075471698113205
+2026-04-26,Fatima,Late Night (10 PM+),Mozang,Jallo,Rickshaw,816,816.0,1220.0,1.0,Cloudy,Low,,404.0,49.50980392156863
+2026-04-26,Fatima,Late Night (10 PM+),Lower Mall,Wagah Area,Rickshaw,1070,1000.0,1260.0,2.0,Cloudy,Moderate,,190.0,17.75700934579439
+2026-04-26,Fatima,Late Night (10 PM+),Shahdara,Gulberg I,Car,819,750.0,1130.0,1.0,Cloudy,Low,,311.0,37.97313797313797
+2026-04-26,Fatima,Late Night (10 PM+),Islampura,Gulberg Ii,Car,620,550.0,660.0,1.0,Cloudy,Low,,40.0,6.451612903225806
+2026-04-26,Fatima,Late Night (10 PM+),Chauburji,Gulberg Iii,Bike,156,140.0,230.0,2.0,Cloudy,Moderate,,74.0,47.43589743589743
+2026-04-26,Rameesha,Late Night (10 PM+),Mughalpura,Liberty Market,Bike,177,160.0,240.0,3.0,Cloudy,Moderate,,63.0,35.59322033898305
+2026-04-26,Rameesha,Late Night (10 PM+),Harbanspura,Garden Town,Rickshaw,730,695.0,1000.0,1.0,Clear/Sunny,Moderate,,270.0,36.986301369863014
+2026-04-26,Rameesha,Late Night (10 PM+),Kot Lakhpat,Barkat Market,Rickshaw,316,316.0,390.0,1.0,Clear/Sunny,Moderate,,74.0,23.417721518987342
+2026-04-26,Rameesha,Late Night (10 PM+),Ghazi Road,Model Town,Car,374,354.0,390.0,1.0,Cloudy,Moderate,,16.0,4.27807486631016
+2026-04-26,Rameesha,Late Night (10 PM+),Tajpura,Mm Alam Road,Car,562,520.0,675.0,2.0,Cloudy,Moderate,,113.0,20.106761565836297
+2026-04-26,Rameesha,Late Night (10 PM+),Jallo,Dha,Bike,217,207.0,249.0,1.0,Cloudy,Low,,32.0,14.746543778801843
+2026-04-26,Rameesha,Late Night (10 PM+),Wagah Area,Cavalry Ground,Bike,392,360.0,450.0,1.0,Cloudy,Moderate,,58.0,14.795918367346939
+2026-04-26,Tahir,Late Night (10 PM+),Gulberg I,Walton Road,Rickshaw,427,400.0,500.0,1.0,Cloudy,Low,,73.0,17.096018735362996
+2026-04-26,Tahir,Late Night (10 PM+),Gulberg Ii,Askari,Rickshaw,413,398.0,590.0,1.0,Clear/Sunny,Moderate,,177.0,42.857142857142854
+2026-04-26,Tahir,Late Night (10 PM+),Gulberg Iii,Johar Town,Car,483,453.0,650.0,2.0,Cloudy,Moderate,,167.0,34.57556935817806
+2026-04-26,Tahir,Late Night (10 PM+),Liberty Market,Faisal Town,Car,489,460.0,620.0,4.0,Cloudy,Low,,131.0,26.789366053169733
+2026-04-26,Tahir,Late Night (10 PM+),Garden Town,Township,Bike,159,159.0,195.0,1.0,Clear/Sunny,Moderate,,36.0,22.641509433962266
+2026-04-26,Tahir,Late Night (10 PM+),Barkat Market,P.I.A Society,Bike,186,160.0,230.0,1.0,Clear/Sunny,Low,,44.0,23.655913978494624
+2026-04-26,Tahir,Late Night (10 PM+),Model Town,Wapda Town,Rickshaw,406,370.0,446.0,2.0,Clear/Sunny,Low,,40.0,9.852216748768473
+2026-04-26,Tahir,Late Night (10 PM+),Mm Alam Road,Valencia,Rickshaw,781,617.0,803.0,1.0,Clear/Sunny,Moderate,,22.0,2.8169014084507045
