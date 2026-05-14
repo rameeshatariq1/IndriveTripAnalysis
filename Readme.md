@@ -104,4 +104,4 @@ User perception survey covering: demographics, usage frequency, fare perception,
 ---
 
 
-*Developed by Syed Tahir · BS Artificial Intelligence (4th Semester) · Superior University Lahore*
+*Developed by Rameesha Tariq · BS Artificial Intelligence (4th Semester) · Superior University Lahore*
